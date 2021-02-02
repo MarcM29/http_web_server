@@ -1,3 +1,5 @@
+*This was a school project*
+
 # Steps for program execution:
 
 1. You can either enter a desired port number as a command line argument or leave it blank and it will use the default port number
