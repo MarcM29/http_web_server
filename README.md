@@ -1,4 +1,4 @@
-*This was a school project*
+# *This was a school project*
 
 # Steps for program execution:
 
